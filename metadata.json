@@ -1,0 +1,14 @@
+{
+    "name": "Question2Answer Use CDN",
+    "uri": "https://github.com/pelock/q2a-use-cdn",
+    "description": "Enable Google CDN (or any other) to be used as the source of JQuery in Question2Answer",
+    "version": "1.0",
+    "date": "2020-07-08",
+    "author": "PELock LLC",
+    "author_uri": "httpp://www.pelock.com",
+    "license": "GPLv2",
+    "update_uri": "https://raw.githubusercontent.com/pelock/q2a-use-cdn/master/metadata.json",
+    "min_q2a": "1.7",
+    "min_php": "5.2",
+    "load_order": "after_db_init"
+}
