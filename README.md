@@ -32,5 +32,6 @@ Go to the **Admin Panel** -> **Plugins** and enable it. That's it!
 
 Bartosz Wójcik
 
-* Check out my software & services at - https://www.pelock.com
-* Twitter https://twitter.com/PELock
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
